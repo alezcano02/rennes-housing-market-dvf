@@ -1,0 +1,121 @@
+quarter,zone,type_local,n,median_eur_m2
+2021Q1,Rennes city,Appartement,691,3385.714285714286
+2021Q1,Rennes city,Maison,93,4794.520547945205
+2021Q1,Rest of Ille-et-Vilaine,Appartement,460,2545.618166526493
+2021Q1,Rest of Ille-et-Vilaine,Maison,1272,1831.9130760896742
+2021Q1,Suburbs < 15 km,Appartement,293,2698.4126984126983
+2021Q1,Suburbs < 15 km,Maison,375,2725.609756097561
+2021Q2,Rennes city,Appartement,923,3500.0
+2021Q2,Rennes city,Maison,133,4660.869565217391
+2021Q2,Rest of Ille-et-Vilaine,Appartement,568,2706.506787330317
+2021Q2,Rest of Ille-et-Vilaine,Maison,1683,1925.0
+2021Q2,Suburbs < 15 km,Appartement,445,2745.098039215686
+2021Q2,Suburbs < 15 km,Maison,528,2823.2016711833785
+2021Q3,Rennes city,Appartement,1032,3684.9624060150377
+2021Q3,Rennes city,Maison,166,5042.673545117205
+2021Q3,Rest of Ille-et-Vilaine,Appartement,490,2791.670562770563
+2021Q3,Rest of Ille-et-Vilaine,Maison,1952,2000.0
+2021Q3,Suburbs < 15 km,Appartement,482,2904.3080442241708
+2021Q3,Suburbs < 15 km,Maison,637,2951.8072289156626
+2021Q4,Rennes city,Appartement,746,3743.0976430976434
+2021Q4,Rennes city,Maison,111,4821.428571428572
+2021Q4,Rest of Ille-et-Vilaine,Appartement,491,2793.478260869565
+2021Q4,Rest of Ille-et-Vilaine,Maison,1477,2033.3333333333333
+2021Q4,Suburbs < 15 km,Appartement,406,2917.282874084409
+2021Q4,Suburbs < 15 km,Maison,444,3013.671250399744
+2022Q1,Rennes city,Appartement,805,3658.75
+2022Q1,Rennes city,Maison,102,5146.256684491978
+2022Q1,Rest of Ille-et-Vilaine,Appartement,454,2750.0
+2022Q1,Rest of Ille-et-Vilaine,Maison,1395,2085.5263157894738
+2022Q1,Suburbs < 15 km,Appartement,333,2952.2727272727275
+2022Q1,Suburbs < 15 km,Maison,415,3054.255319148936
+2022Q2,Rennes city,Appartement,845,3769.230769230769
+2022Q2,Rennes city,Maison,111,5122.388059701492
+2022Q2,Rest of Ille-et-Vilaine,Appartement,499,2945.205479452055
+2022Q2,Rest of Ille-et-Vilaine,Maison,1457,2114.285714285714
+2022Q2,Suburbs < 15 km,Appartement,426,3039.7126969416126
+2022Q2,Suburbs < 15 km,Maison,433,3067.8494623655915
+2022Q3,Rennes city,Appartement,1029,3911.764705882353
+2022Q3,Rennes city,Maison,159,5081.9672131147545
+2022Q3,Rest of Ille-et-Vilaine,Appartement,460,3026.041666666667
+2022Q3,Rest of Ille-et-Vilaine,Maison,1736,2236.296052631579
+2022Q3,Suburbs < 15 km,Appartement,409,3125.0
+2022Q3,Suburbs < 15 km,Maison,569,3223.2558139534885
+2022Q4,Rennes city,Appartement,776,3908.307649201457
+2022Q4,Rennes city,Maison,95,5071.77033492823
+2022Q4,Rest of Ille-et-Vilaine,Appartement,505,2932.8358208955224
+2022Q4,Rest of Ille-et-Vilaine,Maison,1346,2160.4938271604938
+2022Q4,Suburbs < 15 km,Appartement,348,3112.2222222222226
+2022Q4,Suburbs < 15 km,Maison,381,3213.483146067416
+2023Q1,Rennes city,Appartement,720,3743.183021885522
+2023Q1,Rennes city,Maison,81,5050.615384615385
+2023Q1,Rest of Ille-et-Vilaine,Appartement,402,2867.5
+2023Q1,Rest of Ille-et-Vilaine,Maison,1175,2150.537634408602
+2023Q1,Suburbs < 15 km,Appartement,319,3115.285714285714
+2023Q1,Suburbs < 15 km,Maison,335,3158.0
+2023Q2,Rennes city,Appartement,712,3718.6234817813765
+2023Q2,Rennes city,Maison,80,4905.83855799373
+2023Q2,Rest of Ille-et-Vilaine,Appartement,383,3142.8571428571427
+2023Q2,Rest of Ille-et-Vilaine,Maison,1176,2156.031976744186
+2023Q2,Suburbs < 15 km,Appartement,325,3023.2558139534885
+2023Q2,Suburbs < 15 km,Maison,387,3016.698113207547
+2023Q3,Rennes city,Appartement,758,3876.204284221526
+2023Q3,Rennes city,Maison,104,4989.080459770115
+2023Q3,Rest of Ille-et-Vilaine,Appartement,360,2919.402970862693
+2023Q3,Rest of Ille-et-Vilaine,Maison,1342,2204.82910906298
+2023Q3,Suburbs < 15 km,Appartement,347,3134.3283582089553
+2023Q3,Suburbs < 15 km,Maison,449,3113.2075471698113
+2023Q4,Rennes city,Appartement,567,3642.8571428571427
+2023Q4,Rennes city,Maison,97,5034.387931034483
+2023Q4,Rest of Ille-et-Vilaine,Appartement,318,3033.008658008658
+2023Q4,Rest of Ille-et-Vilaine,Maison,1091,2194.8529411764707
+2023Q4,Suburbs < 15 km,Appartement,271,3086.41975308642
+2023Q4,Suburbs < 15 km,Maison,310,3019.300144300144
+2024Q1,Rennes city,Appartement,539,3541.6666666666665
+2024Q1,Rennes city,Maison,68,4500.98814229249
+2024Q1,Rest of Ille-et-Vilaine,Appartement,292,3005.208333333333
+2024Q1,Rest of Ille-et-Vilaine,Maison,920,2187.2874149659865
+2024Q1,Suburbs < 15 km,Appartement,242,2927.0557029177717
+2024Q1,Suburbs < 15 km,Maison,282,2853.9397138165614
+2024Q2,Rennes city,Appartement,595,3583.3333333333335
+2024Q2,Rennes city,Maison,89,4527.363184079602
+2024Q2,Rest of Ille-et-Vilaine,Appartement,339,3310.344827586207
+2024Q2,Rest of Ille-et-Vilaine,Maison,998,2098.4898589065256
+2024Q2,Suburbs < 15 km,Appartement,245,3023.3766233766232
+2024Q2,Suburbs < 15 km,Maison,302,2946.7120181405894
+2024Q3,Rennes city,Appartement,772,3672.5
+2024Q3,Rennes city,Maison,112,4662.6016260162605
+2024Q3,Rest of Ille-et-Vilaine,Appartement,360,3061.2244897959185
+2024Q3,Rest of Ille-et-Vilaine,Maison,1324,2214.285714285714
+2024Q3,Suburbs < 15 km,Appartement,331,3045.4545454545455
+2024Q3,Suburbs < 15 km,Maison,403,2972.8260869565215
+2024Q4,Rennes city,Appartement,652,3626.03668261563
+2024Q4,Rennes city,Maison,115,4545.454545454545
+2024Q4,Rest of Ille-et-Vilaine,Appartement,386,3107.27969348659
+2024Q4,Rest of Ille-et-Vilaine,Maison,1162,2072.7513227513227
+2024Q4,Suburbs < 15 km,Appartement,300,3083.8903743315504
+2024Q4,Suburbs < 15 km,Maison,341,2864.285714285714
+2025Q1,Rennes city,Appartement,656,3625.0
+2025Q1,Rennes city,Maison,134,4376.080540540541
+2025Q1,Rest of Ille-et-Vilaine,Appartement,377,2942.0289855072465
+2025Q1,Rest of Ille-et-Vilaine,Maison,1112,2168.7645687645686
+2025Q1,Suburbs < 15 km,Appartement,360,3087.3015873015875
+2025Q1,Suburbs < 15 km,Maison,371,2916.6666666666665
+2025Q2,Rennes city,Appartement,649,3709.6774193548385
+2025Q2,Rennes city,Maison,103,4493.975903614458
+2025Q2,Rest of Ille-et-Vilaine,Appartement,379,3000.0
+2025Q2,Rest of Ille-et-Vilaine,Maison,1116,2204.4411764705883
+2025Q2,Suburbs < 15 km,Appartement,351,3073.7704918032787
+2025Q2,Suburbs < 15 km,Maison,330,2924.6215306980657
+2025Q3,Rennes city,Appartement,843,3720.5882352941176
+2025Q3,Rennes city,Maison,131,4594.594594594595
+2025Q3,Rest of Ille-et-Vilaine,Appartement,446,3070.833333333333
+2025Q3,Rest of Ille-et-Vilaine,Maison,1394,2241.277890466531
+2025Q3,Suburbs < 15 km,Appartement,349,3158.3333333333335
+2025Q3,Suburbs < 15 km,Maison,494,2962.1064814814818
+2025Q4,Rennes city,Appartement,731,3745.2830188679245
+2025Q4,Rennes city,Maison,114,4454.715061058345
+2025Q4,Rest of Ille-et-Vilaine,Appartement,419,3133.3333333333335
+2025Q4,Rest of Ille-et-Vilaine,Maison,1290,2192.1867072552004
+2025Q4,Suburbs < 15 km,Appartement,380,3094.9340144742446
+2025Q4,Suburbs < 15 km,Maison,355,2917.8082191780823

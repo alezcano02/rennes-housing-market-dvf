@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+data/dvf_35_raw.csv.gz
